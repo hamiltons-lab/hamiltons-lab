@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hamiltons-lab
+- 👀 I’m interested in aiding in AI and ML problems
+- 🌱 I’m currently learning advanced AI 
+- 💞️ I’m looking to collaborate on AI n ML related problems
